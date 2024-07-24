@@ -42,7 +42,7 @@ Clone the repository:
 
 bash
 # Copy code
-git clone https://github.com/yourusername/Advanced-RAG-with-Gemma-Weaviate-and-LlamaIndex.git
+git clone https://github.com/Nagendrakumarredd/Advanced-RAG-with-Gemma-Weaviate-and-LlamaIndex.git
 cd Advanced-RAG-with-Gemma-Weaviate-and-LlamaIndex
 Create and activate a virtual environment (optional but recommended):
 
